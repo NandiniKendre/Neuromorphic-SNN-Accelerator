@@ -1,5 +1,5 @@
+# Neuromorphic SNN Accelerator
 #Event-driven neuromorphic accelerator architecture implemented in synthesizable Verilog for FPGA prototyping and ASIC-oriented research.
-
 ## Overview
 
 This repository presents a synthesizable RTL implementation of an event-driven Spiking Neural Network (SNN) accelerator based on the Leaky Integrate-and-Fire (LIF) neuron model.
@@ -117,6 +117,5 @@ This project provides a baseline neuromorphic accelerator framework suitable for
 
 Nandini Kendre
 
-Senior Research Fellow – C2S Program (MeitY)
 FPGA / ASIC Design Engineer
 Neuromorphic Computing and Hardware Acceleration Research

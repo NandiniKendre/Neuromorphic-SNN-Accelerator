@@ -54,6 +54,10 @@ rtl/
 
 ## Design Objectives
 
+The objective of this project is to investigate the hardware implementation of an event-driven SNN accelerator using a synthesizable RTL design methodology. The architecture is designed to support FPGA-based prototyping while maintaining compatibility with future ASIC implementation flows. By exploring Leaky Integrate-and-Fire (LIF) neuron models, event scheduling mechanisms, and spike-based communication, this work provides a foundational platform for neuromorphic computing research.
+
+Furthermore, the project serves as a stepping stone toward advanced research topics such as sparse neural processing, on-chip learning algorithms, synaptic plasticity, low-power AI accelerators, and neuromorphic ASIC development.
+
 * Develop a reusable neuromorphic hardware framework
 * Investigate event-driven neural processing architectures
 * Evaluate FPGA implementation efficiency
